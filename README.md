@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning rust language
 - 💞️ I’m looking to collaborate on implementing ML models with rust
 - 📫 How to reach me on [Twitter](https://twitter.com/matin_karimpour) and my email address is: matin_karimpour@outlook.com 
+                                                                                                matin_karimpour@tuta.io
 
 <!---
 matin-karimpour/matin-karimpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
