@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matin KarimPour
-- 👀 I’m interested in Machine Learning, web development, and high-performance languages such as Rust.
+- 👀 I’m interested in Machine Learning, and high-performance languages such as Rust.
 - 🌱 I’m currently learning Rust language
 - 📫 You can reach me on [Twitter](https://twitter.com/matin_karimpour), [Mastodon](https://hachyderm.io/@matin_karimpour) and my email address is: matin_karimpour@outlook.com
 - Contributed to [PD localization][1]
